@@ -1,4 +1,5 @@
 Q1. In you own language, explain the difference between program, process and thread.
+
 Ans.
 
 Q2. Which of the following is NOT a state in the traditional five-state process model?
@@ -45,9 +46,11 @@ Q6. In an operating system, time slicing is used to allocate CPU time among vari
 - [ ] The historical CPU burst behavior of the process, with processes that have historically used less CPU time receiving longer time slices to reduce context switching overhead
 
 Q7. How do hardware threads differ from software threads in terms of execution?
+
 Ans.
 
 Q8. Can software threads function without hardware threads?
+
 Ans.
 
 Q9. In a multithreaded application, which of the following strategies is NOT typically used to avoid deadlock?
